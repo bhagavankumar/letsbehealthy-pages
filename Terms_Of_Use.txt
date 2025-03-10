@@ -1,0 +1,39 @@
+Terms of Use for LetsBeHealthy
+Last Updated: March 09, 2025
+Welcome to LetsBeHealthy, a mobile application designed to help users track their daily steps, engage in social features, and improve their health ("App"). By downloading, installing, or using the App, you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, please do not use the App.
+1. Acceptance of Terms
+By accessing or using the App, you confirm that you are at least 13 years old and have the legal capacity to enter into a binding agreement. If you are using the App on behalf of an organization, you represent that you have the authority to bind that organization to these Terms.
+2. Changes to Terms
+We may update these Terms from time to time to reflect changes in our services, legal requirements, or business practices. We will notify you of significant changes by posting the updated Terms within the App or via email. Your continued use of the App after such changes constitutes acceptance of the new Terms.
+3. Description of Service
+LetsBeHealthy provides a platform for users to:
+Track daily step goals and physical activity.
+Connect with friends and share progress.
+Earn rewards based on activity (where applicable). The App uses Firebase services for authentication, data storage, and analytics, as outlined in our Privacy Policy.
+4. User Accounts
+You must create an account to use certain features of the App. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+You agree to provide accurate, current, and complete information during registration and to update such information as necessary.
+You may delete your account at any time via the App’s Settings. Upon deletion, your data will be removed from our servers within 30 days, subject to applicable laws and our backup retention policies.
+5. User Conduct
+You agree not to:
+Use the App for any illegal or unauthorized purpose.
+Harass, abuse, or harm other users.
+Attempt to gain unauthorized access to the App or its systems.
+Upload or share malicious content, including viruses or malware. We reserve the right to terminate or suspend your account if you violate these Terms.
+6. Intellectual Property
+The App and its original content, features, and functionality are owned by Bhagavan Kumar Vangaveeti and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. You may not reproduce, distribute, or create derivative works from the App without our prior written consent.
+7. Third-Party Services
+The App may integrate with third-party services (e.g., Firebase, Apple Health, Google Sign-In). Your use of these services is subject to their respective terms and privacy policies. We are not responsible for the content or practices of third-party providers.
+8. Limitation of Liability
+To the maximum extent permitted by law, LetsBeHealthy shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, arising out of your use of the App. The App is provided "as is" without warranties of any kind, either express or implied.
+9. Indemnification
+You agree to indemnify and hold harmless LetsBeHealthy, its affiliates, officers, agents, and employees from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of your use of the App, your violation of these Terms, or your violation of any rights of another.
+10. Termination
+We may terminate or suspend your access to the App at our sole discretion, with or without cause and with or without notice. Upon termination, your right to use the App will immediately cease, and you must cease all use of the App.
+11. Governing Law
+These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction, e.g., California, USA], without regard to its conflict of law principles. Any disputes arising from these Terms will be resolved in the courts of [Your Jurisdiction].
+12. Contact Us
+If you have any questions about these Terms, please contact us at:
+Email: letsbehealthy0@gmail.com
+13. Entire Agreement
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and LetsBeHealthy regarding the use of the App and supersede all prior agreements.
